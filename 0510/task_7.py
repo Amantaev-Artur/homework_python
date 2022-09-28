@@ -1,5 +1,6 @@
 import random
 
+
 def f(list_name, list_otchestvo, list_family, n):
     i = 0
     while i < n:
